@@ -20,7 +20,7 @@
         a 13,56 MHz. El lector MFRC522 soporta ISO 14443A / modo de MIFARE. <br> 
         La señal enviada puede hacer lecturas a corta distancia facilitando la gestion<br>
         de grandes volumenes de informacion que entran y salen. <br>
-        <img src="imagenes/emisorRFID.jpg" width="300" alt="emisor RfiD para arduino" title="EmisorRFID"> <br>
+        <img src="https://www.movilges.com/wp-content/uploads/rfid-technologie-750x563.jpg" width="300" alt="emisor RfiD para arduino" title="EmisorRFID"> <br>
         <b>Receptor de radio frecuencia</b> <br>
         viene en presentaciones variadas ya sea: 
         <!--lista de Receptores-->
