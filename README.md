@@ -20,7 +20,7 @@
         a 13,56 MHz. El lector MFRC522 soporta ISO 14443A / modo de MIFARE. <br> 
         La señal enviada puede hacer lecturas a corta distancia facilitando la gestion<br>
         de grandes volumenes de informacion que entran y salen. <br>
-        <img src="https://www.movilges.com/wp-content/uploads/rfid-technologie-750x563.jpg" width="300" alt="emisor RfiD para arduino" title="EmisorRFID"> <br>
+        <img src="https://lunite.net/content/images/2020/03/rfid-rc522-1356mhz.jpg" width="300" alt="emisor RfiD para arduino" title="EmisorRFID"> <br>
         <b>Receptor de radio frecuencia</b> <br>
         viene en presentaciones variadas ya sea: 
         <!--lista de Receptores-->
@@ -31,7 +31,7 @@
                 <li> <b>llaveros: </b> esta presentacion podria ser util para personas que en carro <br>
                 pues podriamos saber quien lleva el carro, pero no le daremos amplio enfasis a este modelo. </li> <br>
             </ul>
-    <img class= "ModRecep" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flunite.net%2Fcontrol-de-acceso-rfid-con-arduino%2F&psig=AOvVaw1h8rQ_ZMho-YvXRWX7Z3mV&ust=1686690389122000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj72b7Rvv8CFQAAAAAdAAAAABAE" width="450" alt="Modelos de Receptores RFID" title="Modelos Receptores RFID (tarjeta, etiqueta, llavero)">
+    <img class= "ModRecep" src="https://www.movilges.com/wp-content/uploads/rfid-technologie-750x563.jpg" width="450" alt="Modelos de Receptores RFID" title="Modelos Receptores RFID (tarjeta, etiqueta, llavero)">
 </div>
 <!--
 **carlos-dubo/carlos-dubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
