@@ -31,7 +31,7 @@
                 <li> <b>llaveros: </b> esta presentacion podria ser util para personas que en carro <br>
                 pues podriamos saber quien lleva el carro, pero no le daremos amplio enfasis a este modelo. </li> <br>
             </ul>
-    <img class= "ModRecep" src="imagenes/ModelosReceptor.jpg" width="450" alt="Modelos de Receptores RFID" title="Modelos Receptores RFID (tarjeta, etiqueta, llavero)">
+    <img class= "ModRecep" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flunite.net%2Fcontrol-de-acceso-rfid-con-arduino%2F&psig=AOvVaw1h8rQ_ZMho-YvXRWX7Z3mV&ust=1686690389122000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj72b7Rvv8CFQAAAAAdAAAAABAE" width="450" alt="Modelos de Receptores RFID" title="Modelos Receptores RFID (tarjeta, etiqueta, llavero)">
 </div>
 <!--
 **carlos-dubo/carlos-dubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
